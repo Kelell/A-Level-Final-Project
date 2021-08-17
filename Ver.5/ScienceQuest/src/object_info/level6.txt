@@ -1,0 +1,7 @@
+b2buttons 6 2 0 robot False
+mircox250 6 4 0 b2buttons False
+liswitch 6 15 0 robot False
+bulb 2 16 0 liswitch False
+plant 3 16 0 liswitch False
+prswitch 1 16 0 liswitch False
+totgate 6 17 0 liswitch False

@@ -1,0 +1,7 @@
+bioki 6 4 3 robot True
+fan 6 8 0 robot False
+hair 8 10 0 fan False
+legchain 6 14 0 robot False
+weight 5 18 0 legchain False
+leg 6 18 0 legchain False
+b1box 6 17 0 legchain False

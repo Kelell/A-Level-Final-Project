@@ -1,0 +1,6 @@
+bell 5 4 3 robot True
+dog 5 7 0 bell False
+beemeat 5 9 2 robot True
+beehorn 5 11 6 robot True
+beeflowers 5 13 3 robot True
+bees 5 16 0 beeflowers False

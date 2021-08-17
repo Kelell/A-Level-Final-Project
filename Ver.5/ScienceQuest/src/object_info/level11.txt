@@ -1,0 +1,4 @@
+phyki 6 4 3 robot True
+rock 6 6 0 robot False
+cat 3 10 1 robot True
+b1box 6 17 0 cat False

@@ -1,0 +1,3 @@
+basea 4 5 1 robot True
+baseg 3 10 1 robot True
+basec 6 18 1 robot True

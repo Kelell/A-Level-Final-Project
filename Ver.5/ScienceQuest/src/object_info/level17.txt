@@ -1,0 +1,5 @@
+cheki 5 4 3 robot True
+wood 5 7 2 robot True
+bottle 5 9 2 robot True
+fork 5 11 3 robot True
+c2gate 5 14 0 robot False

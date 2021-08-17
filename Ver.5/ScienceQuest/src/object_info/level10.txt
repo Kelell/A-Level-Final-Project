@@ -1,0 +1,6 @@
+dna1 5 5 0 robot False
+dna2 7 10 0 robot False
+dna3 6 13 0 robot False
+dna4 5 16 0 robot False
+dnagate 6 18 0 dna4 False 
+bioki 6 3 4 robot True

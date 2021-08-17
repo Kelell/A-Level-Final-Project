@@ -1,0 +1,5 @@
+oxcan 6 4 3 robot True
+arcan 6 6 1 robot True
+feed 6 8 0 robot False
+room 6 10 0 feed False
+alkai 6 17 0 robot False

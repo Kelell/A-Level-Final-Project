@@ -1,0 +1,6 @@
+bioki 6 4 3 robot True
+baseu 5 7 1 robot True
+flashlight 6 9 2 robot True
+rose 6 11 4 robot True
+toy 6 13 4 robot True
+bird 6 15 0 toy False

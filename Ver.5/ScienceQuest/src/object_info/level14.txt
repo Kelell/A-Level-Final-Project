@@ -1,0 +1,4 @@
+phyki 6 4 4 robot True
+sboxg 6 7 0 robot False
+gamgun 6 10 2 robot True
+cancer 6 14 0 gamgun False 

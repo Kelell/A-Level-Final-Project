@@ -1,0 +1,3 @@
+kiosk 6 4 9 robot True
+flswitch 6 10 0 robot False
+totgate 6 17 0 flswitch False

@@ -1,0 +1,2 @@
+kiosk 6 8 3 robot True
+henbit 6 15 6 robot True

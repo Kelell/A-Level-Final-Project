@@ -1,0 +1,6 @@
+mgburner 5 4 0 robot False
+phyki 5 6 5 robot True
+caburner 3 15 0 robot False
+bioki 4 13 5 robot True
+cuburner 4 9 0 robot False
+cheki 3 17 5 robot True

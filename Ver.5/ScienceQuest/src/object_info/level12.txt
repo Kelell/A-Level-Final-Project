@@ -1,0 +1,5 @@
+can 2 8 0 robot False
+rock 2 10 0 robot False
+b1box 6 11 0 rock False
+gene 6 15 1 robot True
+totgate 6 17 0 gene False

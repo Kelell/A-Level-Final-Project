@@ -1,0 +1,6 @@
+torch 6 4 0 robot True
+syringe 6 7 0 robot True
+cheki 6 10 3 robot True
+elemg 6 13 0 robot False
+elecu 6 15 0 robot False
+eleca 6 17 0 robot False

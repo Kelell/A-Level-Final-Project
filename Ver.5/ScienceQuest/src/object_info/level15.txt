@@ -1,0 +1,4 @@
+cheki 6 4 6 robot True
+powerbox 6 7 0 robot False
+bellows 6 11 4 robot True
+log 6 14 0 robot False 
