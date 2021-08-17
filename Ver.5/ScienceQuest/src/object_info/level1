@@ -1,0 +1,3 @@
+ghost 6 2 0 robot False
+start 4 8 0 ghost False
+kiosk 6 8 6 robot True
